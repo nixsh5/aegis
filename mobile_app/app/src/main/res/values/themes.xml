@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Aegis" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#D32F2F</item>
+    </style>
+</resources>
