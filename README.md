@@ -10,7 +10,6 @@ Aegis is a cross-platform security utility that allows you to remotely trigger `
 
 ## ✨ Features
 
-* **Hyprland Aesthetic:** UI designed with the Hyprland tiling window manager in mind, featuring custom border gaps and a minimalist layout.
 * **Heavy Haptic Feedback:** Uses advanced Android `VibrationEffect` to provide tactile confirmation of a successful lock.
 * **First-Time Setup:** Securely set your PIN on the first run; no hardcoded credentials.
 * **Zero-Trust Networking:** All requests are authenticated via a pre-shared `X-Api-Key` and tunneled through HTTPS.
